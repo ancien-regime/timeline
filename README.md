@@ -60,7 +60,7 @@ These signify when the event originally happened, and now, when (or if) it happe
 
 - The primary trend of 1794 is the gradual loss of land controlled by the French Republic.
   By this point, those involved in the war who notice their grim fate once the Republic falls begin to prepare their departure from France.
-  Many chose to flee across the sea to the United States or British Canada (largely settling in Quebec).
+  Many chose to flee across the sea to the United States or British Canada (largely settling in Quebec and Louisiana).
 
 #### 1795
 
@@ -71,4 +71,22 @@ These signify when the event originally happened, and now, when (or if) it happe
 
 #### 1796 - 1836
 
--- TODO describe 40 years in a few bullet points. Break out some points into years if necessary. Not much should change if France just follows the changes of Napoleon and Louis XVIII but without the wars.
+- The Haitian Revolution doesn't succeed in this timeline without the support of French Royalists or Spain.
+  With the closure of the French Civil War at the end of 1795, the revolt is largely suppressed.
+  By 1836, the situation is stable.
+
+- No changes to France's borders in Europe.
+
+### Spain
+
+### Netherlands
+
+### Russia
+
+### United States, Louisiana, Canada
+
+### Great Britain
+
+### Austria
+
+-- TODO
